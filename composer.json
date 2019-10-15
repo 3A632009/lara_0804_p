@@ -6,5 +6,7 @@
             "email": "3a632009@student.ncut.edu.tw"
         }
     ],
-    "require": {}
+    "require": {
+        "nesbot/carbon": "^1.21"
+    }
 }
