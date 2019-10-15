@@ -2,7 +2,7 @@
 require __DIR__.'/vendor/autoload.php';
 require __DIR__.'/bootstrap.php';
 
-//date_default_timezone_set('Asia/Taipei');
+
 use Carbon\Carbon;
 Carbon::setLocale('zh-tw');
 
